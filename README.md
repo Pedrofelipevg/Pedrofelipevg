@@ -20,7 +20,7 @@ Sou apaixonado por **tecnologia** e **vendas**. Tenho experiência como programa
 ### 🔗 Conecte-se comigo
 
 - **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/pedro-felipe-vieira-gouveia-794a34329)
-- **Instagram**: [Meu Instagram](https://www.instagram.com/seuinstagram)
+- **Instagram**: [Meu Instagram](https://www.instagram.com/pedro250c?igsh=MXd4OWcxM2dxZHBmdg==)
 
 ---
 
