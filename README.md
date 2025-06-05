@@ -13,30 +13,14 @@ Sou apaixonado por **tecnologia** e **vendas**. Tenho experiência como programa
 ### 🛠️ Minhas habilidades
 
 #### Backend:
-- 🌐 **Linguagens**: Python, Java, PHP
+- 🌐 **Linguagens**: Python, Java
 - 🛢️ **Banco de Dados**: MySQL
-- ⚙️ **Frameworks**: Django
-- 🗂️ **Versionamento**: Git, GitHub
+- 🗂️ **Versionamento**: GitHub
 
 ### 🔗 Conecte-se comigo
 
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seulinkedin)
-- **Instagram**: [Seu Instagram](https://www.instagram.com/seuinstagram)
-- **Site Pessoal**: [Seu Site](https://www.seusite.com)
-
----
-
-### 🧑‍💻 Meus Projetos
-
-- **[Projeto 1](link)**: Descrição breve do projeto e tecnologias utilizadas.
-- **[Projeto 2](link)**: Descrição breve do projeto e tecnologias utilizadas.
-- **[Projeto 3](link)**: Descrição breve do projeto e tecnologias utilizadas.
-
----
-
-### 📊 Estatísticas
-
-![Estatísticas de Contribuição no GitHub](https://github-readme-stats.vercel.app/api?username=pedrofelipevg&show_icons=true&theme=radical)
+- **LinkedIn**: [Meu LinkedIn](https://www.linkedin.com/in/pedro-felipe-vieira-gouveia-794a34329)
+- **Instagram**: [Meu Instagram](https://www.instagram.com/seuinstagram)
 
 ---
 
