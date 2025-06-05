@@ -24,4 +24,10 @@ Sou apaixonado por **tecnologia** e **vendas**. Tenho experiência como programa
 
 ---
 
+### 📊 Estatísticas
+
+![Estatísticas de Contribuição no GitHub](https://github-readme-stats.vercel.app/api?username=pedrofelipevg&show_icons=true&theme=radical)
+
+---
+
 ### 💡 "O sucesso está em combinar técnica e comunicação para criar soluções que realmente façam a diferença."
